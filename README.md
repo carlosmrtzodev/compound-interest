@@ -4,7 +4,9 @@
 
 Hello 👋.
 
-Simple Compound Interest practice in the course of: React - Definitive guide: hooks router redux next +Projects.
+I'm Carlos, a Front End Developer.
+
+This is my Simple Compound Interest practice in the course of: React - Definitive guide: hooks router redux next +Projects.
 
 ## 💼 Used Skills
 
