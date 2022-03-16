@@ -15,7 +15,7 @@
 We release patches for security vulnerabilities. Which versions are eligible
 receiving such patches depend on the CVSS v3.0 Rating:
 
-| CI v1.0 | Supported Versions                        |
+| CI v2.0 | Supported Versions                        |
 | --------| ----------------------------------------- |
 | V2      | Most recent release                       |
 
