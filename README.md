@@ -4,8 +4,7 @@
 
 ## 📄 Intro.
 
-This is a Simple Compound Interest App with React.js and Formik Forms for practice from the course:
-React - Definitive guide: hooks router redux next +Projects, by Nicolas Schurmann. <br><br>
+Simple Compound Interest App in React.js with Formik Forms and Tailwind CSS. <br><br>
 [![Demo Badge](https://img.shields.io/badge/Demo%20Link-informational?style=for-the-badge&color=ef233c&labelColor=2b2d42)](https://compound-interest-one.vercel.app/)
 
 ## 💼 Used technologies
@@ -14,6 +13,7 @@ React - Definitive guide: hooks router redux next +Projects, by Nicolas Schurman
 ![](https://img.shields.io/badge/Style-CSS-informational?style=for-the-badge&logo=css3&logoColor=edf2f4&color=ef233c&labelColor=2b2d42)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=JavaScript&logoColor=edf2f4&color=ef233c&labelColor=2b2d42)
 ![](https://img.shields.io/badge/Code-React.js-informational?style=for-the-badge&logo=react&logoColor=edf2f4&color=ef233c&labelColor=2b2d42)
+![](https://img.shields.io/badge/Style-Tailwind%20CSS-informational?style=for-the-badge&logo=Tailwind-CSS&logoColor=edf2f4&color=ef233c&labelColor=2b2d42)
 
 ## 🚨 Forking this repo
 
