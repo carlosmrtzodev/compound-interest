@@ -1,19 +1,17 @@
-[![Carlos's GitHub Banner](https://raw.githubusercontent.com/carlosmrtzodev/carlosmrtzodev/master/assets/BannerWork.png)](https://github.com/carlosmrtzodev/)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=for-the-badge&logo=twitter&logoColor=edf2f4&color=ef233c&labelColor=2b2d42)](https://twitter.com/carlosmrtzodev)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=edf2f4&color=ef233c&labelColor=2b2d42)](https://www.linkedin.com/in/carlosmrtzodev/)
-
 ## 📄 Intro.
 
-Simple Compound Interest App in React.js with Formik Forms and Tailwind CSS. <br><br>
-[![Demo Badge](https://img.shields.io/badge/Demo%20Link-informational?style=for-the-badge&color=ef233c&labelColor=2b2d42)](https://compound-interest-one.vercel.app/)
+<div align="center">
+Simple Compound Interest App in React.js with Formik Forms, React Router and Styled Components. <br><br>
+</div>
+
+[![Compound Interest App Banner](./public/banner.png)](https://compound-interest-one.vercel.app/)
 
 ## 💼 Used technologies
 
-![](https://img.shields.io/badge/Markup-HTML-informational?style=for-the-badge&logo=html5&logoColor=edf2f4&color=ef233c&labelColor=2b2d42)
-![](https://img.shields.io/badge/Style-CSS-informational?style=for-the-badge&logo=css3&logoColor=edf2f4&color=ef233c&labelColor=2b2d42)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=JavaScript&logoColor=edf2f4&color=ef233c&labelColor=2b2d42)
-![](https://img.shields.io/badge/Code-React.js-informational?style=for-the-badge&logo=react&logoColor=edf2f4&color=ef233c&labelColor=2b2d42)
-![](https://img.shields.io/badge/Style-Tailwind%20CSS-informational?style=for-the-badge&logo=Tailwind-CSS&logoColor=edf2f4&color=ef233c&labelColor=2b2d42)
+![](https://img.shields.io/badge/Markup-HTML-informational?style=for-the-badge&logo=html5&logoColor=db7093&color=db7093&labelColor=2b2d42)
+![](https://img.shields.io/badge/Style-CSS-informational?style=for-the-badge&logo=css3&logoColor=db7093&color=db7093&labelColor=2b2d42)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=JavaScript&logoColor=db7093&color=db7093&labelColor=2b2d42)
+![](https://img.shields.io/badge/Code-React.js-informational?style=for-the-badge&logo=react&logoColor=db7093&color=db7093&labelColor=2b2d42)
 
 ## 🚨 Forking this repo
 
