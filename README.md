@@ -1,7 +1,7 @@
 ## 📄 Intro.
 
 <div align="center">
-Simple Compound Interest App in React.js with Formik Forms, React Router and Styled Components. <br><br>
+Simple Compound Interest App in React.js and Styled Components. <br><br>
 </div>
 
 [![Compound Interest App Banner](./public/banner.png)](https://compound-interest-one.vercel.app/)
